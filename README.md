@@ -1,7 +1,3 @@
-Certainly! Let's organize the README and make necessary corrections:
-
----
-
 # Simple Shell
 
 Simple Shell is a basic command-line interface that emulates the functionality of a Unix shell. It was developed as a part of the Alx Software Engineering Programme.
