@@ -33,7 +33,7 @@ To install and run the simple shell on your system, follow these steps:
 1. **Clone Repository**: Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/simple_shell.git
+    https://github.com/tech2world/simple_shell.git
     ```
 
 2. **Navigate to Directory**: Change to the directory containing the project files:
